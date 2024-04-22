@@ -18,7 +18,7 @@ Este é um simples aplicativo de lista de tarefas construído com HTML, CSS e Ja
 
 ## 🔗 Acesso
 
-[Acesse o projeto clicando aqui](https://skypse.github.io/Projeto-09-JavaScript-To-do-List/)
+[Acesse o projeto clicando aqui](https://skypse.github.io/skypse-Projeto-09-JavaScript-To-do-List/)
 
 ## 📧 Contato
 
