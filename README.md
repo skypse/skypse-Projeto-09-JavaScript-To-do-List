@@ -1,6 +1,5 @@
 # 📝 Lista de Tarefas Interativa 📝
-
-
+https://github.com/skypse/skypse-Projeto-09-JavaScript-To-do-List/assets/97822775/f054e809-873c-4097-bfbf-3cb1ad93e144
 
 Este é um simples aplicativo de lista de tarefas construído com HTML, CSS e JavaScript. Ele permite que o usuário adicione, marque como concluída e exclua tarefas.
 
